@@ -4,8 +4,7 @@ pip freeze > requirements.txt
 python -m pip install -r requirements.txt
 
 
-https://adoptium.net/en-GB/temurin/releases?version=17
-
+py -3.10 -m venv .venv
 source .venv/Scripts/activate
 
 

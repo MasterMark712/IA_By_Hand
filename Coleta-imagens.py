@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Define a pasta onde as imagens serão salvas
-output_folder = 'P'
+output_folder = 'teste'
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
